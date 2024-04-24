@@ -59,3 +59,10 @@ h1.site-title span {
   font-family: 'Fashion Victim';
   src: url(fonts/fashion-victim.woff2) format('woff2');
 }
+
+.color-box {
+  width: 70px; /* Nastavte požadovanou šířku */
+  height: 70px; /* Nastavte požadovanou výšku */
+  /* background-color: white; /* Nastavte požadovanou barvu pozadí */
+  border-radius: 50%; /* Nastaví kruhový tvar */
+}
